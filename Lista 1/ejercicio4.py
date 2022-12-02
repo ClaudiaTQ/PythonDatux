@@ -1,0 +1,21 @@
+#4.Ingrese un valor e imprima el tipo de dato
+a = 15 
+print("a = ", a, "es de tipo ", type(a))
+b = 3.141592
+print("b = ", b, "es de tipo ", type(b))
+c = "Hola Mundo"
+print("c = ", c, "es de tipo ", type(c))
+d = 'Bienvenidos'
+print("d = ", d, "es de tipo ", type(d))
+e = 5 + 3j
+print("e = ", e, "es de tipo ", type(e))
+f = [3, 8, 12.6, 10]
+print("f = ", f, "es de tipo ", type(f))
+g = ['Lun', 'Mar', 'Mie']
+print("g = ", g, "es de tipo ", type(g))
+h = (26, 10 , 2019)
+print("h = ", h, "es de tipo ", type(h))
+i = (19192333, "Gonzales Quispe", "Javier")
+print("i = ", i, "es de tipo ", type(i))
+j = {"Ene":1500, "Feb":2860, "Mar":1458}
+print("j = ", j, "es de tipo ", type(j))
